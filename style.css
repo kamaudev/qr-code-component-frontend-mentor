@@ -4,7 +4,9 @@
     box-sizing: border-box;
     font-family: Outfit, sans-serif;
 }
-
+body{
+    background-color: #D5E1EF;
+}
 .container {
     width: 270px;
     height: 270px;
