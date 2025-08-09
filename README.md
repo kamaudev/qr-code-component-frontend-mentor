@@ -20,6 +20,7 @@
 <br>
 <h2>Demonstração</h2>
 <br>
+<p>Viste o site aqui: <a href="https://kamaudev.github.io/qr-code-component-frontend-mentor/" target="_blank">QR Code Component</a></p>
 <img src="https://github.com/kamaudev/qr-code-component-frontend-mentor/blob/main/images/Macbook-Air-127.0.0.1%20(2).png?raw=true" alt="Demonstração do componente em desktop"/>
 <img src="https://github.com/kamaudev/qr-code-component-frontend-mentor/blob/main/images/iPhone-13-PRO-127.0.0.1.png?raw=true" alt="Demonstração do componente em mobile"/>
 <br>
