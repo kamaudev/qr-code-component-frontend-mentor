@@ -39,6 +39,8 @@ p {
 img{
     width: 288px;
     height: 288px;
+    border-radius: 5%;
+    margin: 16px 16px 24px 16px;
 }
 footer{
     font-size: 11px; 
