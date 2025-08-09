@@ -20,12 +20,17 @@ body {
 }
 
 h1 {
+    width: 250px;
     font-size: 22px;
     font-weight: 700;
     line-height: 26.40px;
     word-wrap: break-word;
     color: #1F314F;
-
+    text-align: center;
+    left: 30px;
+    display: flex;
+    justify-content: center;
+    position: relative;
 }
 
 p {
