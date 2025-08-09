@@ -4,9 +4,11 @@
     box-sizing: border-box;
     font-family: Outfit, sans-serif;
 }
-body{
+
+body {
     background-color: #D5E1EF;
 }
+
 .container {
     width: 270px;
     height: 270px;
@@ -19,10 +21,18 @@ body{
 
 h1 {
     font-size: 22px;
-    font-family: Outfit;
     font-weight: 700;
     line-height: 26.40px;
     word-wrap: break-word;
     color: #1F314F;
 
+}
+
+p {
+    color: #68778D;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.20px;
+    word-wrap: break-word;
 }
