@@ -36,3 +36,7 @@ p {
     letter-spacing: 0.20px;
     word-wrap: break-word;
 }
+img{
+    width: 288px;
+    height: 288px;
+}
