@@ -40,3 +40,9 @@ img{
     width: 288px;
     height: 288px;
 }
+footer{
+    font-size: 11px; 
+    text-align: center;
+    color: hsl(228, 45%, 44%); 
+    text-decoration: none;
+  }
