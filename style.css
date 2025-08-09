@@ -61,3 +61,13 @@ a {
     text-decoration: none;
     color: hsl(228, 45%, 44%);
 }
+@media (max-width: 375px) {
+    .container {
+        width: 90vw;
+        height: auto;
+        left: 5vw;
+        top: 10vh;
+        position: absolute;
+    }
+    
+}
