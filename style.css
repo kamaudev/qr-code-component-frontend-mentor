@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Outfit, sans-serif;
 }
 .container{
     width: 270px;
@@ -9,4 +10,7 @@
   left: 131.50px;
   top: 204.50px;
   background: hsl(0, 0%, 100%);
+}
+h1{
+
 }
