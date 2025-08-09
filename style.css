@@ -43,18 +43,21 @@ p {
     margin: 16px 32px 5px;
     text-align: center;
 }
-img{
+
+img {
     width: 288px;
     height: 288px;
     border-radius: 5%;
     margin: 16px 16px 24px 16px;
 }
-footer{
-    font-size: 11px; 
+
+footer {
+    font-size: 11px;
     text-align: center;
-    color: hsl(228, 45%, 44%); 
-  }
-  a {
+    color: hsl(228, 45%, 44%);
+}
+
+a {
     text-decoration: none;
-     color: hsl(228, 45%, 44%); 
-  }
+    color: hsl(228, 45%, 44%);
+}
